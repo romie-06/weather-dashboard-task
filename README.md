@@ -1,6 +1,6 @@
 # 🌦️ Weather Dashboard
 
-A responsive and modern Weather Dashboard built with **React**, **Material-UI (MUI)**, and the **OpenWeatherMap API**. It fetches and displays real-time weather data for multiple cities, including temperature, humidity, condition, wind speed, and more.
+A responsive and modern Weather Dashboard built with **ReactJS**, **Material-UI (MUI)**, **TypeScript** and the **OpenWeatherMap API**. It fetches and displays real-time weather data for multiple cities, including temperature, humidity, condition, wind speed, and more.
 
 ---
 
